@@ -75,8 +75,12 @@ ___
 ### 모수 값 추정
 * 모수 값(최적화가 끝난 식)은 **f(x) = 42387x + 1467265(a = 42387 / b = 1467265)**
 * a와 b의 값으로 그래프를 그렸을 때 어떤 형태롤 나타나는지 확인하기 위해 함수 그래프를 그려주는 사이트를 이용  
+
+
      그래프 형태
 ![shape of graph](https://postfiles.pstatic.net/MjAyMjA2MTBfMjEz/MDAxNjU0ODYwNDQ5MjQ5.xBG86qUDztXzkMbQD_byy5DaiGNvkAz39E_U6HqgWvwg.V_KQ7dGDprjB5dWsRZO6rK3Akg05nDdVjq5mM5uFHSog.PNG.jinha081131/%EC%8B%A4%EC%A0%9C_%EA%B7%B8%EB%9E%98%ED%94%84.PNG?type=w966)
+
+
 * 추세선과 비교했을 때나 전체적인 그래프의 형태와 비교했을 때 거의 유사한 모습을 보임
 * 엑셀에서 나타난 그래프에서 추세선에 가장 가까운 두 지점을 기준으로 식을 구했을 때, 위의 식이 구해짐
 
