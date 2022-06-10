@@ -30,9 +30,16 @@ ___
 
 ![추세선 1차식](https://postfiles.pstatic.net/MjAyMjA2MTBfMjcz/MDAxNjU0ODUwNzg2MDI0._B8trKNL31SCYPCARQ2xJcCzsfgzAJiclEU6diTF5qog.97Wzkd76A5eeUJPXAGfi59O-bVJ205_XQ14AQtsDuY8g.PNG.jinha081131/%EA%B7%B8%EB%9E%98%ED%94%84_new.png?type=w966)
 
+* 선형 추세선
+
 ![추세선 지수 형태](https://postfiles.pstatic.net/MjAyMjA2MTBfMjkx/MDAxNjU0ODUwNzg4ODA2.IUikl2EXOmqf56oLaElfiJ8X02Da1dy8C_gfe12FEwwg.tEcBBAXpAqdLTxRmztRTuKSQURrab25QikmNmCUrwGQg.PNG.jinha081131/%EA%B7%B8%EB%9E%98%ED%94%84_%EC%A7%80%EC%88%98%ED%98%95_new.png?type=w966)
 
+* 지수형 추세선
+
 ![둘의 비교](https://postfiles.pstatic.net/MjAyMjA2MTBfMjgw/MDAxNjU0ODUwNzk2MjQy._ZAKhr7W0hARF-TJtFXLFLatpj21VofXoNATOTs4Vg0g.LPcNQxEumYz726t5l1i0JfvxgzKG4JciVJMaBj26aSYg.PNG.jinha081131/%EA%B7%B8%EB%9E%98%ED%94%84_%EC%A7%80%EC%88%98%ED%98%95_%EC%84%A0%ED%98%95.png?type=w966)
+
+* 그 둘의 비교
+
 
 ___
 
