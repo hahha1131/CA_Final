@@ -21,6 +21,9 @@ ___
     - 엑셀을 활용  
     - 한 가지 문제점은 데이터를 분산형 차트로 변경했을 때, 차트의 x축이 알 수 없는 임의의 값으로 변경되어 분산형과 가장 유사한 꺾은선형으로 제작할 수 밖에 없었음  
 
+![추세선 1차식](https://postfiles.pstatic.net/MjAyMjA2MTBfOTgg/MDAxNjU0ODM4MzAyMjU1.e835e1QOjrAyIOx-wm1LT0yRj2ZDvSqo9EOX8EBsgDIg.OosP_vP1ARivWrqF_ED5povzpGfgIdG89LW1siYnLyog.PNG.jinha081131/%EA%B7%B8%EB%9E%98%ED%94%84.png?type=w966)
+
+![추세선 지수 형태](https://postfiles.pstatic.net/MjAyMjA2MTBfMTgz/MDAxNjU0ODM4NjQyMjQw.HnZL02B09L7Mc4OI1TZ2spHVCJmcswlEW5oq-qUl0DAg.1frfQr7wUUwEbCqh6QKIB_10DLblikEsLLvtWn_peEsg.PNG.jinha081131/%EA%B7%B8%EB%9E%98%ED%94%84_%EC%A7%80%EC%88%98%ED%98%95.png?type=w966)
 ___
 
 ### 회귀식  
