@@ -28,9 +28,9 @@ ___
 * 따라서 선형(1차식)으로 선택
 
 
-![추세선 1차식]([https://postfiles.pstatic.net/MjAyMjA2MTBfOTgg/MDAxNjU0ODM4MzAyMjU1.e835e1QOjrAyIOx-wm1LT0yRj2ZDvSqo9EOX8EBsgDIg.OosP_vP1ARivWrqF_ED5povzpGfgIdG89LW1siYnLyog.PNG.jinha081131/%EA%B7%B8%EB%9E%98%ED%94%84.png?type=w966](https://postfiles.pstatic.net/MjAyMjA2MTBfMjcz/MDAxNjU0ODUwNzg2MDI0._B8trKNL31SCYPCARQ2xJcCzsfgzAJiclEU6diTF5qog.97Wzkd76A5eeUJPXAGfi59O-bVJ205_XQ14AQtsDuY8g.PNG.jinha081131/%EA%B7%B8%EB%9E%98%ED%94%84_new.png?type=w966))
+![추세선 1차식](https://postfiles.pstatic.net/MjAyMjA2MTBfMjcz/MDAxNjU0ODUwNzg2MDI0._B8trKNL31SCYPCARQ2xJcCzsfgzAJiclEU6diTF5qog.97Wzkd76A5eeUJPXAGfi59O-bVJ205_XQ14AQtsDuY8g.PNG.jinha081131/%EA%B7%B8%EB%9E%98%ED%94%84_new.png?type=w966)
 
-![추세선 지수 형태]([https://postfiles.pstatic.net/MjAyMjA2MTBfMTgz/MDAxNjU0ODM4NjQyMjQw.HnZL02B09L7Mc4OI1TZ2spHVCJmcswlEW5oq-qUl0DAg.1frfQr7wUUwEbCqh6QKIB_10DLblikEsLLvtWn_peEsg.PNG.jinha081131/%EA%B7%B8%EB%9E%98%ED%94%84_%EC%A7%80%EC%88%98%ED%98%95.png?type=w966](https://postfiles.pstatic.net/MjAyMjA2MTBfMjcz/MDAxNjU0ODUwNzg2MDI0._B8trKNL31SCYPCARQ2xJcCzsfgzAJiclEU6diTF5qog.97Wzkd76A5eeUJPXAGfi59O-bVJ205_XQ14AQtsDuY8g.PNG.jinha081131/%EA%B7%B8%EB%9E%98%ED%94%84_new.png?type=w966))
+![추세선 지수 형태](https://postfiles.pstatic.net/MjAyMjA2MTBfMjkx/MDAxNjU0ODUwNzg4ODA2.IUikl2EXOmqf56oLaElfiJ8X02Da1dy8C_gfe12FEwwg.tEcBBAXpAqdLTxRmztRTuKSQURrab25QikmNmCUrwGQg.PNG.jinha081131/%EA%B7%B8%EB%9E%98%ED%94%84_%EC%A7%80%EC%88%98%ED%98%95_new.png?type=w966)
 
 ![둘의 비교](https://postfiles.pstatic.net/MjAyMjA2MTBfMjgw/MDAxNjU0ODUwNzk2MjQy._ZAKhr7W0hARF-TJtFXLFLatpj21VofXoNATOTs4Vg0g.LPcNQxEumYz726t5l1i0JfvxgzKG4JciVJMaBj26aSYg.PNG.jinha081131/%EA%B7%B8%EB%9E%98%ED%94%84_%EC%A7%80%EC%88%98%ED%98%95_%EC%84%A0%ED%98%95.png?type=w966)
 
