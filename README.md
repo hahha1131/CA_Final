@@ -103,3 +103,26 @@ ___
 * 이 부분은 다른 코드로 선형 회귀를 수행하면서 기울기가 정확한 값으로 맞춰지는 과정을 설명
 * 코드를 실행하는 횟수가 많아질수록 실제 데이터와 모수 값(1차 회귀식) 사이의 오차는 분산형 데이터셋에서 가장 평균에 가까운 두 쌍에 근접하는 형태와 유사하게 줄어들었음
 * 더 많은 실행횟수로 실행했으나 특정 횟수 이후로는 오차가 더 줄어들지 않았음(따라서 위에서 구한 모수 값이 가장 최적화된 값임)  
+
+___
+
+### 참고 사이트
+* 국가 통계 포털
+<https://kosis.kr/index/index.do>  
+  
+  
+* 온라인 음식배달 거래액  
+<https://kosis.kr/statHtml/statHtml.do?orgId=164&tblId=DT_002&vw_cd=MT_ZTITLE&list_id=N1_13&seqNo=&lang_mode=ko&language=kor&obj_var_id=&itm_id=&conn_path=MT_ZTITLE>  
+  
+  
+* 회귀 분석 관련 사이트
+<https://nevertrustbrutus.tistory.com/426>  
+  
+  
+<https://creatorjo.tistory.com/135>  
+
+  
+  
+<https://velog.io/@amobmocmo/Python-%EB%8B%A8%EC%88%9C-%EC%84%A0%ED%98%95-%ED%9A%8C%EA%B7%80-Linear-Regression-%EA%B5%AC%ED%98%84-9ik2uej68q>  
+
+  
