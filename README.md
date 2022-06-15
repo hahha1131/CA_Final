@@ -52,7 +52,7 @@ ___
 
 ___
 
-### 소스코드 설명
+### 소스코드(linear regression code) 설명
 * 동작방식
     - 임의의 (x, y) 2쌍(ex> x = 5 / y = 1,603,614 | x = 17 / y = 2,187,844)을 입력받아 그 둘을 기준으로 1차식 그래프의 a, b를 구함
     - 임의의 (x, y)를 입력받으면서 오차가 가장 작은 그래프를 도출
@@ -91,15 +91,15 @@ ___
 
 
      그래프 형태
-![shape of graph](https://postfiles.pstatic.net/MjAyMjA2MTVfNjMg/MDAxNjU1MzAxMjMyMTEy.g8nzhOgJJUNlEg3_5nGh8gnB_4kwUYCFS8wqL3aU5sgg.THmGxN_wSBJ6AKyiQsbukxMz7GGboxliZPt60AwrYLAg.PNG.jinha081131/%ED%8C%8C%EC%9D%B4%EC%8D%AC_%EC%BD%94%EB%93%9C%EB%A1%9C_%EC%8B%A4%ED%96%89%ED%95%9C_%EC%8B%A4%EC%A0%9C_%EB%AA%A8%EC%88%98_%EA%B0%92_%EA%B7%B8%EB%9E%98%ED%94%84.png?type=w966))
+![shape of graph](https://postfiles.pstatic.net/MjAyMjA2MTVfNjMg/MDAxNjU1MzAxMjMyMTEy.g8nzhOgJJUNlEg3_5nGh8gnB_4kwUYCFS8wqL3aU5sgg.THmGxN_wSBJ6AKyiQsbukxMz7GGboxliZPt60AwrYLAg.PNG.jinha081131/%ED%8C%8C%EC%9D%B4%EC%8D%AC_%EC%BD%94%EB%93%9C%EB%A1%9C_%EC%8B%A4%ED%96%89%ED%95%9C_%EC%8B%A4%EC%A0%9C_%EB%AA%A8%EC%88%98_%EA%B0%92_%EA%B7%B8%EB%9E%98%ED%94%84.png?type=w966)
 
 
 * 추세선과 비교했을 때나 전체적인 그래프의 형태와 비교했을 때 거의 유사한 모습을 보임
-* 엑셀에서 나타난 그래프에서 추세선에 가장 가까운 두 지점을 기준으로 식을 구했을 때, 위의 식이 구해짐
+* 엑셀에서 나타난 그래프에서 추세선에 가장 가까운 두 지점을 기준으로 식을 구했을 때, 위의 식과 유사한 식이 구해짐
 
 ___
 
 ### 최적화 과정
-* 코드를 실행하는 횟수가 많아질수록 오차는 분산형 데이터셋에서 가장 평균에 가까운 두 쌍에 근접하는 형태로 줄어들었음
-* 평균 값을 제외한 나머지 값의 오차 역시, 횟수가 적을 때보다 오차 정도가 낮았음  
+* 이 부분은 다른 코드로 선형 회귀를 수행하면서 기울기가 정확한 값으로 맞춰지는 과정을 설명
+* 코드를 실행하는 횟수가 많아질수록 실제 데이터와 모수 값(1차 회귀식) 사이의 오차는 분산형 데이터셋에서 가장 평균에 가까운 두 쌍에 근접하는 형태와 유사하게 줄어들었음
 * 더 많은 실행횟수로 실행했으나 특정 횟수 이후로는 오차가 더 줄어들지 않았음(따라서 위에서 구한 모수 값이 가장 최적화된 값임)  
