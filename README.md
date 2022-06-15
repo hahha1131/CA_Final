@@ -107,15 +107,21 @@ ___
 ___
 
 ### 참고 사이트
-* 국가 통계 포털
+* 국가 통계 포털  
+
+
 <https://kosis.kr/index/index.do>  
   
   
 * 온라인 음식배달 거래액  
+
+
 <https://kosis.kr/statHtml/statHtml.do?orgId=164&tblId=DT_002&vw_cd=MT_ZTITLE&list_id=N1_13&seqNo=&lang_mode=ko&language=kor&obj_var_id=&itm_id=&conn_path=MT_ZTITLE>  
   
   
-* 회귀 분석 관련 사이트
+* 회귀 분석 관련 사이트  
+
+
 <https://nevertrustbrutus.tistory.com/426>  
   
   
